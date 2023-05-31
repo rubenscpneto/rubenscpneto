@@ -1,5 +1,5 @@
 
-# Hi! I'm Rubens!
+# Hi, I'm Rubens!
 
 ## About me
 
