@@ -3,7 +3,7 @@
 
 ## About me
 
-I'm a Full Stack Web Developer. Currently studying at [Rocketseat](https://www.rocketseat.com.br/).
+I'm a Full Stack Web Developer. Dev @ PMF(Prefeitura de Florianópolis)
 
 ## Stacks
 
