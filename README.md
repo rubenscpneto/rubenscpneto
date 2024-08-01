@@ -7,10 +7,9 @@ I'm a Full Stack Web Developer. Currently studying at [Rocketseat](https://www.r
 
 ## Stacks
 
-- Main programming language: `Javascript`
-- Backend: `Nodejs`
-- Frontend: `Reactjs`, `HTML 5`, `CSS3`, `Javascript`
-- Layout Design: `Figma`
+- Main programming language: `Javascript` `PHP`
+- Backend: `PHP`
+- Frontend: `HTML 5`, `CSS3`, `Javascript`
 - Version code control: `Git & Github`
 - Tools: `VsCode`
 
