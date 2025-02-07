@@ -3,7 +3,7 @@
 
 ## About me
 
-I'm a Full Stack Web Developer. Dev @ Prefeitura de Florianópolis
+I'm a Full Stack Web Developer @ Prefeitura de Florianópolis
 
 ## Stacks
 
