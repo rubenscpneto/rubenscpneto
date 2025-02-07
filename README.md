@@ -9,7 +9,7 @@ I'm a Full Stack Web Developer. Dev @ Prefeitura de Florianópolis
 
 - Main programming language: `Javascript` `PHP`
 - Backend: `PHP`
-- Frontend: `React`, `React Native`,`HTML 5`, `CSS3`, `Javascript`
+- Frontend: `React`, `React Native`,`HTML 5`, `CSS3`, `Bootstrap`
 - Database: `SQL`, `PostgreSQL`
 - Version code control: `Git & Github`
 - Tools: `VsCode`
